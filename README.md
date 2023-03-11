@@ -62,3 +62,13 @@ https://user-images.githubusercontent.com/55401093/188253709-890514b5-370a-47eb-
 https://user-images.githubusercontent.com/55401093/188254255-55779791-179b-4d6a-8675-2d9d4596900a.mp4
 
 https://user-images.githubusercontent.com/55401093/188256259-78a9372b-4661-4763-ac9e-4cb798e6ed9c.mp4
+
+---
+# Conclusions
+
+- Performing a simulation before the real robot implementation allows to solve problems and prevents dangerous situations for both robot and humans. It also helps to study the paths and obtain more complex and more accurate results by simplifying the path planning task and helping with all math inside.
+- In the tool design it is important to acknowledge the requirements and limitations of the robot and thus avoid any damage. A tool must only be used in the task it was designed for.
+- The precision on the calibration depends mostly on how well defined is the origin of the TCP, in this case, the wide shape of the marker tip made very difficult to find the exact point and that led to a bigger calibration error.
+- About the work object calibration, the selection of the calibration points is very important because this will define how hard will be for the robot to follow the path using simple poses and sometimes a point can't be reached by the TCP.
+
+---
