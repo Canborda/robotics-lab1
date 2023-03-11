@@ -55,3 +55,10 @@ Before any application on an industrial robot, it's mandatory to simulate the pr
 <p align="center"><img height=250 src="./assets/simulation5.png" alt="station with robot, tool and work object" /></p>
 
 https://user-images.githubusercontent.com/55401093/188253709-890514b5-370a-47eb-8e7b-e0c88d74943e.mp4
+
+---
+# Demonstration
+
+https://user-images.githubusercontent.com/55401093/188254255-55779791-179b-4d6a-8675-2d9d4596900a.mp4
+
+https://user-images.githubusercontent.com/55401093/188256259-78a9372b-4661-4763-ac9e-4cb798e6ed9c.mp4
