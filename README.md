@@ -28,3 +28,11 @@ The final tool has the following properties:
 
 
 ---
+# Tool Calibration
+
+The calibration process starts by fixing the tool on the mounting flange with four screws. Next, using the jogging function and the joystick, the TCP (Tool Center Point) must be matched with an external pointed tool in four different configurations of the robot. Once all four positions have been achieved the robot controller will calculate with inverse kinematics the TCP frame offset with respect to the `tool0` frame. The program also shows the error found in the calculation.
+
+> - __Position__: $\{ x=-1.14511, y=-2.77919, z=147.51\}$
+> - __Error__: $\{max=1.1265782\text{ mm}, min=0.3530322\text{ mm}, mean=0.6549213\text{ mm}\}$
+
+---
